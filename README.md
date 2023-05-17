@@ -1,7 +1,7 @@
 # 2011-Census-Data
 2011 Census data analysed on basis of various topics mentioned in the file
 <br>
-The 2011 census data has been added to the repository in the file named "NDAP_REPORT_6000.csv". <br> <br>
+The 2011 census data can be found in this google drive [LINK](https://drive.google.com/drive/folders/1vrRO1BmLElKdry5oPGecPXFssPuouTEw?usp=sharing). <br> <br>
 Analysis of the data on the following topics provided some great insights about the country. <br>
 The questions answered are as follows: <br>
 1.	How does the population vary across different states or districts? <br>
